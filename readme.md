@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/tsawler/toolkit`
+`go get -u github.com/akshaychopra5207/toolkit`
